@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "web3": "^1.7.0"
+  },
+  "name": "web3",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-tramadol/web3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-tramadol/web3/issues"
+  },
+  "homepage": "https://github.com/mr-tramadol/web3#readme"
+}
